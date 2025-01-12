@@ -13,7 +13,7 @@
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
-https://medium.com/mlearning-ai/credit-card-fraud-detection-2527ca04c3de
+
 
 ## Problem Statement
 Credit card fraud is an inclusive term for fraud committed using a payment card, such as a credit card or debit card. The purpose may be to obtain goods or services or to make payment to another account, which is controlled by a criminal.
