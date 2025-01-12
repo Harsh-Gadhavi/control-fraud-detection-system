@@ -9,13 +9,7 @@
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)
 ![reposize](https://img.shields.io/github/repo-size/Nneji123/Credit-Card-Fraud-Detection)
 
-An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/ML Team to detect fraudulent credit card transactions. Built with FastAPI, Streamlit and Docker.
 
-## Contributors
-- **NNEJI IFEANYI DANIEL**
-- **IFEZUE TOONNAEMEKA HILARY**
-- **SOMTOCHUKWU OGUCHIENTI**
-- **KACHUKWU OKOH**
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
